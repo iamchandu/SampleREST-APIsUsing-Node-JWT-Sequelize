@@ -12,7 +12,7 @@ Run `node index.js`.
 
 ## Change Configurations
 
-config/config.json
+config/config.json  <br />
 config/conf.js
 
 ## Refer My Blog
