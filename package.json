@@ -1,0 +1,29 @@
+{
+  "name": "application",
+  "version": "1.0.0",
+  "description": "sample test application",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "jsonwebtoken": "^8.3.0",
+    "mysql2": "^1.6.1",
+    "sequelize": "^4.38.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "6",
+    "node",
+    "sequelize",
+    "web",
+    "application"
+  ],
+  "author": "chandu",
+  "license": "ISC"
+}
